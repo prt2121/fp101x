@@ -1,4 +1,4 @@
 fp101x
 ======
 
-Erik's course
+edX fp101x by Erik Meijer
